@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Stigatle.no</title>
+    <link>https://stigatle.no/categories/</link>
+    <description>Recent content in Categories on Stigatle.no</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stig Atle Steffensen</copyright>
+    <lastBuildDate>Thu, 01 Jul 2021 20:12:17 +0000</lastBuildDate><atom:link href="https://stigatle.no/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncategorized</title>
+      <link>https://stigatle.no/categories/uncategorized/</link>
+      <pubDate>Thu, 01 Jul 2021 20:12:17 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blender</title>
+      <link>https://stigatle.no/categories/blender/</link>
+      <pubDate>Tue, 03 Sep 2019 20:32:56 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://stigatle.no/categories/linux/</link>
+      <pubDate>Tue, 03 Sep 2019 20:32:56 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>https://stigatle.no/categories/android/</link>
+      <pubDate>Wed, 01 May 2019 18:59:47 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smartphone</title>
+      <link>https://stigatle.no/categories/smartphone/</link>
+      <pubDate>Wed, 01 May 2019 18:59:47 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/smartphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pbrt</title>
+      <link>https://stigatle.no/categories/pbrt/</link>
+      <pubDate>Sun, 22 Jul 2018 16:09:15 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/pbrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>centos</title>
+      <link>https://stigatle.no/categories/centos/</link>
+      <pubDate>Tue, 10 Jul 2018 19:17:02 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/centos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libreboot</title>
+      <link>https://stigatle.no/categories/libreboot/</link>
+      <pubDate>Tue, 10 Jul 2018 19:17:02 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/libreboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vulkan</title>
+      <link>https://stigatle.no/categories/vulkan/</link>
+      <pubDate>Mon, 28 May 2018 19:06:43 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/vulkan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3dsmax</title>
+      <link>https://stigatle.no/categories/3dsmax/</link>
+      <pubDate>Thu, 26 Apr 2018 19:36:40 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/3dsmax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luxrender</title>
+      <link>https://stigatle.no/categories/luxrender/</link>
+      <pubDate>Thu, 26 Apr 2018 19:36:40 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/luxrender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luxmax</title>
+      <link>https://stigatle.no/categories/luxmax/</link>
+      <pubDate>Mon, 25 Sep 2017 20:09:01 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/luxmax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maratis</title>
+      <link>https://stigatle.no/categories/maratis/</link>
+      <pubDate>Mon, 14 Aug 2017 17:32:46 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/maratis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>https://stigatle.no/categories/crypto/</link>
+      <pubDate>Mon, 10 Jul 2017 20:16:19 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>climbing</title>
+      <link>https://stigatle.no/categories/climbing/</link>
+      <pubDate>Thu, 11 Aug 2016 12:05:20 +0000</pubDate>
+      
+      <guid>https://stigatle.no/categories/climbing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

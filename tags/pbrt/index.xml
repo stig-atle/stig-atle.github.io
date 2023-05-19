@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pbrt on Stigatle.no</title>
+    <link>https://stigatle.no/tags/pbrt/</link>
+    <description>Recent content in pbrt on Stigatle.no</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stig Atle Steffensen</copyright>
+    <lastBuildDate>Tue, 03 Mar 2020 18:09:51 +0000</lastBuildDate><atom:link href="https://stigatle.no/tags/pbrt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pbrt render exporter update</title>
+      <link>https://stigatle.no/posts/2020-03-03-pbrt-render-exporter-update/</link>
+      <pubDate>Tue, 03 Mar 2020 18:09:51 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2020-03-03-pbrt-render-exporter-update/</guid>
+      <description>I have spent some time the last 4 days, wrapping my head around what the next step should be. I’ve been wanting for a long time to move it from python to c++, but I did not know how. So I decided this weekend to spend time figuring that out. The result now is that I have PBRT API available inside a python module, this again means that I can go to the next step deeper and better integration of PBRT in blender, without implementing it directly in the blender source.</description>
+    </item>
+    
+    <item>
+      <title>My render exporter \ integration project</title>
+      <link>https://stigatle.no/posts/2017-06-16-my-render-exporter-integration-project/</link>
+      <pubDate>Fri, 16 Jun 2017 19:58:40 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2017-06-16-my-render-exporter-integration-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maratis on Stigatle.no</title>
+    <link>https://stigatle.no/categories/maratis/</link>
+    <description>Recent content in maratis on Stigatle.no</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stig Atle Steffensen</copyright>
+    <lastBuildDate>Mon, 14 Aug 2017 17:32:46 +0000</lastBuildDate><atom:link href="https://stigatle.no/categories/maratis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maratis scene exporter for 3dsmax status update 2</title>
+      <link>https://stigatle.no/posts/2017-08-14-maratis-scene-exporter-for-3dsmax-status-update-2/</link>
+      <pubDate>Mon, 14 Aug 2017 17:32:46 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2017-08-14-maratis-scene-exporter-for-3dsmax-status-update-2/</guid>
+      <description>A lot has happened since my last post, I’ve been working on the new exporter every day. I have come a long way, and soon it’ll be ready for beta release.
+As I wrote in my previous post hereI’m rewriting everything in c++, and now I have these things mostly ready.
+You can download a zipped sample project that you can load into maratis (the scene these screenshots are taken from).</description>
+    </item>
+    
+    <item>
+      <title>Maratis scene exporter for 3dsmax status update</title>
+      <link>https://stigatle.no/posts/2017-08-04-maratis-scene-exporter-for-3dsmax-status-update/</link>
+      <pubDate>Fri, 04 Aug 2017 19:33:09 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2017-08-04-maratis-scene-exporter-for-3dsmax-status-update/</guid>
+      <description>Around 5 years ago I found the game engine ‘Maratis’, I really liked it.
+It’s easy to use, nice clean editor, nice LUA language support (which I’m used to from maxscript).
+Very good for prototyping and creating games fast.
+Back then I then created a exporter for 3dsmax for it, and posted a video of it here:
+I then moved on to other projects.
+But recent comments on the video about the exporter got me back to developing on it again, and I have now spent around two days upgrading the exporter to 3dsmax 2018, I have also rewritten most of it from maxscript to c++, so now the exporter GUI, animation modifier and physics modifier is rewritten as c++ plugins.</description>
+    </item>
+    
+  </channel>
+</rss>

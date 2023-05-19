@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luxmax on Stigatle.no</title>
+    <link>https://stigatle.no/categories/luxmax/</link>
+    <description>Recent content in Luxmax on Stigatle.no</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stig Atle Steffensen</copyright>
+    <lastBuildDate>Mon, 25 Sep 2017 20:09:01 +0000</lastBuildDate><atom:link href="https://stigatle.no/categories/luxmax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LuxMax 3DsMax 2018 OpenCL</title>
+      <link>https://stigatle.no/posts/2017-09-25-luxmax-3dsmax-2018-opencl/</link>
+      <pubDate>Mon, 25 Sep 2017 20:09:01 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2017-09-25-luxmax-3dsmax-2018-opencl/</guid>
+      <description>A big milestone has been reached in the LuxMax render plugin tonight, the OpenCL version now works, and uses the GPU. This means a huge speed improvement. Here is the first test render I did during the implementation. As you see the GPU sits at 46% in this example, I have tested other scenes too with 98% utilization. Also all OpenCL related settings can be tweaked in the render panel soon, this is what I’m going to fix next.</description>
+    </item>
+    
+    <item>
+      <title>My render exporter \ integration project</title>
+      <link>https://stigatle.no/posts/2017-06-16-my-render-exporter-integration-project/</link>
+      <pubDate>Fri, 16 Jun 2017 19:58:40 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2017-06-16-my-render-exporter-integration-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status of LuxMax</title>
+      <link>https://stigatle.no/posts/2017-01-08-status-of-luxmax/</link>
+      <pubDate>Sun, 08 Jan 2017 14:40:55 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2017-01-08-status-of-luxmax/</guid>
+      <description>Some of you readers might already know I’m the main developer of LuxMax.
+The current status is very positive, I’ve released several stable versions now and added a lot of new shaders.
+The biggest improvement is stability, now you can leave the renders for days without any memory leak or such.
+Also the new shaders lets you play around and create much more advanced materials then before.
+This is my main focus right now add all missing shadres \ textures \ features.</description>
+    </item>
+    
+    <item>
+      <title>Technical test renders</title>
+      <link>https://stigatle.no/posts/2016-10-31-technical-test-renders/</link>
+      <pubDate>Mon, 31 Oct 2016 20:19:46 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2016-10-31-technical-test-renders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New release of Luxmax internal renderer for 3dsmax</title>
+      <link>https://stigatle.no/posts/2016-02-20-new-release-of-luxmax-internal-renderer-for-3dsmax/</link>
+      <pubDate>Sat, 20 Feb 2016 21:51:03 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2016-02-20-new-release-of-luxmax-internal-renderer-for-3dsmax/</guid>
+      <description>Today I pushed out a new release of Luxmax internal renderer.
+The open source renderer which integrates luxrender directly into 3dsmax.
+We’ve been working hard the past months to get new things added.
+Some of these features are:
+Material preview.
+Basic support for Architectural materials (Brushed metal, mirror, glass).
+Matte material supports diffuse texture and bumpmap.
+And many other improvements.
+I made a small example render that shows the latest features.</description>
+    </item>
+    
+  </channel>
+</rss>

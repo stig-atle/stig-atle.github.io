@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>decentralized on Stigatle.no</title>
+    <link>https://stigatle.no/tags/decentralized/</link>
+    <description>Recent content in decentralized on Stigatle.no</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stig Atle Steffensen</copyright>
+    <lastBuildDate>Tue, 02 May 2023 18:15:31 +0200</lastBuildDate><atom:link href="https://stigatle.no/tags/decentralized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yarn Desktop Client</title>
+      <link>https://stigatle.no/posts/yarn-desktop-client/</link>
+      <pubDate>Tue, 02 May 2023 18:15:31 +0200</pubDate>
+      
+      <guid>https://stigatle.no/posts/yarn-desktop-client/</guid>
+      <description>I felt that I needed a new &amp;lsquo;home&amp;rsquo; for social media when I shut down gnusocial \ diaspora instances I was running. I spent some time looking around. I have to admit I do not like the whole &amp;lsquo;web3&amp;rsquo; stuff (nostr for example) and others, mostly because it attracts so many cryptobro&amp;rsquo;s, and I get tired of the constant shilling they do. I do not mind crypto - I use it a lot my self, but I do not need to be reminded about it on almost every post I see on social media.</description>
+    </item>
+    
+  </channel>
+</rss>

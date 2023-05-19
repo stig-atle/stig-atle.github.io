@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>centos on Stigatle.no</title>
+    <link>https://stigatle.no/categories/centos/</link>
+    <description>Recent content in centos on Stigatle.no</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stig Atle Steffensen</copyright>
+    <lastBuildDate>Tue, 10 Jul 2018 19:17:02 +0000</lastBuildDate><atom:link href="https://stigatle.no/categories/centos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Centos 7 with libreboot.</title>
+      <link>https://stigatle.no/posts/2018-07-10-install-centos-7-with-libreboot/</link>
+      <pubDate>Tue, 10 Jul 2018 19:17:02 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2018-07-10-install-centos-7-with-libreboot/</guid>
+      <description>I really wanted to have CentOS on a laptop with libreboot. I had some trouble getting things to run after install, later I found a post on the libreboot website that said what to do. The same solution can be used for redhat \ fedora installs.
+So here is what I did:
+Download latest CentOS, boot from usb stick or some other way, personally I use drivedroidall the time , very nice app to have installed on the phone, grab the iso, copy it to phone, emulate usb cdrom and boot from that.</description>
+    </item>
+    
+    <item>
+      <title>Testing CentOS 7 as desktop \ developer OS.</title>
+      <link>https://stigatle.no/posts/2017-07-10-centos-7-as-my-main-desktop-developer-os/</link>
+      <pubDate>Mon, 10 Jul 2017 20:16:19 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2017-07-10-centos-7-as-my-main-desktop-developer-os/</guid>
+      <description>A couple of weeks ago I decided to give CentOS 7a try as my main OS,
+the reason why is because it’s the closest you get to redhat without paying,
+and I’ve been running everything from Debian to Arch, gentoo and others, but now I wanted a rock solid OS that feels predictable,
+CentOS feels like the natural choice for that kind of system.
+What worried me a bit was outdated software, that has been a issue before with other OS’es,</description>
+    </item>
+    
+  </channel>
+</rss>

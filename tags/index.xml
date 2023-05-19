@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Stigatle.no</title>
+    <link>https://stigatle.no/tags/</link>
+    <description>Recent content in Tags on Stigatle.no</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stig Atle Steffensen</copyright>
+    <lastBuildDate>Tue, 02 May 2023 18:15:31 +0200</lastBuildDate><atom:link href="https://stigatle.no/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>decentralized</title>
+      <link>https://stigatle.no/tags/decentralized/</link>
+      <pubDate>Tue, 02 May 2023 18:15:31 +0200</pubDate>
+      
+      <guid>https://stigatle.no/tags/decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social-media</title>
+      <link>https://stigatle.no/tags/social-media/</link>
+      <pubDate>Tue, 02 May 2023 18:15:31 +0200</pubDate>
+      
+      <guid>https://stigatle.no/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yarn</title>
+      <link>https://stigatle.no/tags/yarn/</link>
+      <pubDate>Tue, 02 May 2023 18:15:31 +0200</pubDate>
+      
+      <guid>https://stigatle.no/tags/yarn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>husky</title>
+      <link>https://stigatle.no/tags/husky/</link>
+      <pubDate>Tue, 07 Feb 2023 20:10:06 +0100</pubDate>
+      
+      <guid>https://stigatle.no/tags/husky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cpp</title>
+      <link>https://stigatle.no/tags/cpp/</link>
+      <pubDate>Tue, 03 Mar 2020 18:09:51 +0000</pubDate>
+      
+      <guid>https://stigatle.no/tags/cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pbrt</title>
+      <link>https://stigatle.no/tags/pbrt/</link>
+      <pubDate>Tue, 03 Mar 2020 18:09:51 +0000</pubDate>
+      
+      <guid>https://stigatle.no/tags/pbrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://stigatle.no/tags/python/</link>
+      <pubDate>Tue, 03 Mar 2020 18:09:51 +0000</pubDate>
+      
+      <guid>https://stigatle.no/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3dsmax</title>
+      <link>https://stigatle.no/tags/3dsmax/</link>
+      <pubDate>Fri, 25 Sep 2015 19:29:27 +0000</pubDate>
+      
+      <guid>https://stigatle.no/tags/3dsmax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://stigatle.no/tags/linux/</link>
+      <pubDate>Fri, 25 Sep 2015 19:29:27 +0000</pubDate>
+      
+      <guid>https://stigatle.no/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

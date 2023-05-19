@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pbrt on Stigatle.no</title>
+    <link>https://stigatle.no/categories/pbrt/</link>
+    <description>Recent content in pbrt on Stigatle.no</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stig Atle Steffensen</copyright>
+    <lastBuildDate>Sun, 22 Jul 2018 16:09:15 +0000</lastBuildDate><atom:link href="https://stigatle.no/categories/pbrt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blender PBRT exporter test scene.</title>
+      <link>https://stigatle.no/posts/2018-07-22-blender-pbrt-exporter-test-scene/</link>
+      <pubDate>Sun, 22 Jul 2018 16:09:15 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2018-07-22-blender-pbrt-exporter-test-scene/</guid>
+      <description>I got contacted on twitter by @Cao_Jiayin{.ProfileHeaderCard-screennameLink.u-linkComplex.js-nav} on twitter today, and he asked about a scene that I had posted previously, specifically the ‘glass monkey’ scene.
+
+I have now re-created that scene, and exported it, zipped it, uploaded it so that you can render it out if you want to test a bit. You have to adjust ‘”integer pixelsamples” [32]’ to something much higher if you want a clean render.</description>
+    </item>
+    
+    <item>
+      <title>Status and info on my PBRT exporter for blender.</title>
+      <link>https://stigatle.no/posts/2018-04-26-status-and-info-on-my-pbrt-exporter-for-blender/</link>
+      <pubDate>Thu, 26 Apr 2018 19:36:40 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2018-04-26-status-and-info-on-my-pbrt-exporter-for-blender/</guid>
+      <description>I want to write a bit about my first blender development project, if you follow me on twitter then you probaly already know its a renderer exporter for PBRT render engine.
+You find the source code and samples scenes here:
+https://github.com/stig-atle/io_scene_pbrtThe reason why I wrote it as an exporter is because it was the easiest way to get started. The project started when I decided to stop using 3dsmax and go to blender full-time, so I needed to learn everything I needed about blenders C/Python API while making this.</description>
+    </item>
+    
+    <item>
+      <title>Switching to blender on all personal projects.</title>
+      <link>https://stigatle.no/posts/2018-02-11-switching-to-blender-on-all-personal-projects/</link>
+      <pubDate>Sun, 11 Feb 2018 10:32:40 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2018-02-11-switching-to-blender-on-all-personal-projects/</guid>
+      <description>So, in December (2017) I decided to leave 3dsmax and switch to blender full time for all personal work. I’ve been using 3dsmax for half my life, and still use it at work (our whole workflow there is based around autodesk software), byt at home it enabled me to completely ditch window which has been a goal of mine for a long time, it was only 3dsmax holding me back.</description>
+    </item>
+    
+    <item>
+      <title>My render exporter \ integration project</title>
+      <link>https://stigatle.no/posts/2017-06-16-my-render-exporter-integration-project/</link>
+      <pubDate>Fri, 16 Jun 2017 19:58:40 +0000</pubDate>
+      
+      <guid>https://stigatle.no/posts/2017-06-16-my-render-exporter-integration-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
